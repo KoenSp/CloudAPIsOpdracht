@@ -16,10 +16,10 @@ public class PrinterController : Controller
     }
 
     [HttpGet]         // api/v1/printers
-    public List<Printer> GetAllPrinters(string product, string printMethod, int? page, string sort, int length = 1, string dir = "asc")
+    public List<Printer> GetAllPrinters(string id, string product, string printMethod, int? page, string sort, int length = 5, string dir = "asc")
     {
         IQueryable<Printer> query = context.Printers;
-
+        
         if (!string.IsNullOrWhiteSpace(product))
             query = query.Where(d => d.Product == product);
         if (!string.IsNullOrWhiteSpace(printMethod))
