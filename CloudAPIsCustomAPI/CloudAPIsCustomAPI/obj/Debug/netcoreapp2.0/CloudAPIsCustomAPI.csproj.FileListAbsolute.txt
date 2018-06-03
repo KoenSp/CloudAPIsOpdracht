@@ -1,0 +1,11 @@
+C:\Users\SpallierKoenstudent\Documents\School\CloudAPIs_KoenSpallier\CloudAPIsOpdracht\CloudAPIsCustomAPI\CloudAPIsCustomAPI\bin\Debug\netcoreapp2.0\CloudAPIsCustomAPI.deps.json
+C:\Users\SpallierKoenstudent\Documents\School\CloudAPIs_KoenSpallier\CloudAPIsOpdracht\CloudAPIsCustomAPI\CloudAPIsCustomAPI\bin\Debug\netcoreapp2.0\CloudAPIsCustomAPI.runtimeconfig.json
+C:\Users\SpallierKoenstudent\Documents\School\CloudAPIs_KoenSpallier\CloudAPIsOpdracht\CloudAPIsCustomAPI\CloudAPIsCustomAPI\bin\Debug\netcoreapp2.0\CloudAPIsCustomAPI.runtimeconfig.dev.json
+C:\Users\SpallierKoenstudent\Documents\School\CloudAPIs_KoenSpallier\CloudAPIsOpdracht\CloudAPIsCustomAPI\CloudAPIsCustomAPI\bin\Debug\netcoreapp2.0\CloudAPIsCustomAPI.dll
+C:\Users\SpallierKoenstudent\Documents\School\CloudAPIs_KoenSpallier\CloudAPIsOpdracht\CloudAPIsCustomAPI\CloudAPIsCustomAPI\bin\Debug\netcoreapp2.0\CloudAPIsCustomAPI.pdb
+C:\Users\SpallierKoenstudent\Documents\School\CloudAPIs_KoenSpallier\CloudAPIsOpdracht\CloudAPIsCustomAPI\CloudAPIsCustomAPI\obj\Debug\netcoreapp2.0\CloudAPIsCustomAPI.csprojAssemblyReference.cache
+C:\Users\SpallierKoenstudent\Documents\School\CloudAPIs_KoenSpallier\CloudAPIsOpdracht\CloudAPIsCustomAPI\CloudAPIsCustomAPI\obj\Debug\netcoreapp2.0\CloudAPIsCustomAPI.csproj.CoreCompileInputs.cache
+C:\Users\SpallierKoenstudent\Documents\School\CloudAPIs_KoenSpallier\CloudAPIsOpdracht\CloudAPIsCustomAPI\CloudAPIsCustomAPI\obj\Debug\netcoreapp2.0\CloudAPIsCustomAPI.AssemblyInfoInputs.cache
+C:\Users\SpallierKoenstudent\Documents\School\CloudAPIs_KoenSpallier\CloudAPIsOpdracht\CloudAPIsCustomAPI\CloudAPIsCustomAPI\obj\Debug\netcoreapp2.0\CloudAPIsCustomAPI.AssemblyInfo.cs
+C:\Users\SpallierKoenstudent\Documents\School\CloudAPIs_KoenSpallier\CloudAPIsOpdracht\CloudAPIsCustomAPI\CloudAPIsCustomAPI\obj\Debug\netcoreapp2.0\CloudAPIsCustomAPI.dll
+C:\Users\SpallierKoenstudent\Documents\School\CloudAPIs_KoenSpallier\CloudAPIsOpdracht\CloudAPIsCustomAPI\CloudAPIsCustomAPI\obj\Debug\netcoreapp2.0\CloudAPIsCustomAPI.pdb
